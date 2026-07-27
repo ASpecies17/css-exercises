@@ -15,7 +15,7 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  
   
 
 }
@@ -68,8 +68,7 @@ ul {
 
 .left{
   display: flex;
-  flex-shrink: 0;
-  
+  align-items: center;
 }
 
 
